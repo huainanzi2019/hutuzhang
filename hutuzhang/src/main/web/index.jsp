@@ -15,6 +15,6 @@
     </script>
 </head>
 <body>
-<button type="button" id="onclick">点击</button>
+<button type="button" id="onclick">点击2</button>
 </body>
 </html>
